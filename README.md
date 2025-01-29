@@ -2,7 +2,7 @@
 
 # Task 2 - Data Cleaning and Exploratory Data Analysis (EDA)
 
-Welcome to my submission for **Task 2** of the Data Science Internship at **Prodigy Infotech**. In this task, I have performed **Data Cleaning** and **Exploratory Data Analysis (EDA)** on the **Titanic dataset** from Kaggle. The goal was to explore the relationships between variables and identify patterns and trends in the data.
+Welcome to my submission for **Task 2** of the Data Science Internship at **Skill Craft**. In this task, I have performed **Data Cleaning** and **Exploratory Data Analysis (EDA)** on the **Titanic dataset** from Kaggle. The goal was to explore the relationships between variables and identify patterns and trends in the data.
 
 ## Dataset
 The dataset used for this task is the **Titanic dataset**, which contains information on passengers aboard the Titanic. The dataset includes features such as passenger class, age, sex, fare, survival status, and more.
